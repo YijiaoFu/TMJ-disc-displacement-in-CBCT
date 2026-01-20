@@ -187,10 +187,6 @@ The core methodology and implementation described in this software are protected
 - **Yijiao Fu** - Primary Developer
 - Additional contributors welcome
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - Supported by Clinical Research Program of Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine (Grant No. JYLJ202114)
