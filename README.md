@@ -171,6 +171,17 @@ If you use this code in your research, please cite:
 }
 ```
 
+## 📜 License & Patent Notice
+
+**License**
+This software is open-sourced under the Apache License, Version 2.0.
+See the [LICENSE](./LICENSE) file for details.
+
+**Patent**
+The core methodology and implementation described in this software are protected by a pending Chinese patent application (**Application No.: CN 120411646 A**).
+
+**Important:** The Apache License 2.0 explicitly grants users a license to any patents that are infringed by the contributed code. This means you are free to use, modify, and distribute this software under the terms of the Apache 2.0 license, which includes a grant of patent rights. Any use beyond the scope of this license may require separate patent licensing.
+
 ## 👥 Authors
 
 - **Yijiao Fu** - Primary Developer
